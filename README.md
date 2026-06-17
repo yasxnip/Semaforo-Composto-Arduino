@@ -39,7 +39,7 @@ O sistema alterna entre dois semáforos:
 * O processo ocorre em ciclos contínuos com intervalos de 2,5 segundos
 
 ## 📷 Circuito
-![Circuito](circuito/Circuito.png)
+!(circuito/Circuito.png)
 
 
 

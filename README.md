@@ -1,6 +1,6 @@
 # 🚦 Semáforo composto com Arduino
 
-Projeto utilizando Arduino para simular o funcionamento de um semáforo em um cruzamento.
+Projeto utilizando Arduino para simular o funcionamento de um semáforo em um cruzamento em linguagem C++.
 
 ## 🧠 Descrição
 
